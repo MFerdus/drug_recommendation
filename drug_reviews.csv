@@ -1,0 +1,31 @@
+drugName,condition,review,rating
+Metformin,"Diabetes, Type 2",Helped control my blood sugar with mild nausea.,8
+Metformin,"Diabetes, Type 2","Great results, but stomach upset for a week.",7
+Insulin glargine,"Diabetes, Type 1",Stable fasting glucose. Easy pen usage.,9
+Lisinopril,High Blood Pressure,Lowered my BP. Slight dry cough.,7
+Amlodipine,High Blood Pressure,"Good BP control, ankle swelling.",7
+Atorvastatin,High Cholesterol,Cholesterol dropped a lot. Muscle ache sometimes.,7
+Rosuvastatin,High Cholesterol,Effective statin with fewer side effects.,8
+Sertraline,Depression,Mood improved after 3 weeks. Some insomnia.,8
+Escitalopram,Anxiety,Reduced anxiety significantly. Less panic.,9
+Fluoxetine,Depression,"Energy improved, mild headache.",7
+Albuterol,Asthma,Quick relief during attacks.,9
+Budesonide,Asthma,"Fewer symptoms long-term, throat irritation.",8
+Omeprazole,GERD,Heartburn gone. Works fast.,9
+Pantoprazole,GERD,"Helped reflux, mild headache.",8
+Amoxicillin,Sinus Infection,"Cleared infection, upset stomach.",7
+Azithromycin,Bronchitis,Felt better quickly.,8
+Ibuprofen,Pain,Great for pain but hurts stomach if empty.,8
+Naproxen,Pain,Long lasting relief.,8
+Cetirizine,Allergies,Stops sneezing and itching.,9
+Loratadine,Allergies,Works but not as strong for me.,7
+Sumatriptan,Migraine,"Stops migraine fast, sleepy after.",8
+Topiramate,Migraine Prevention,Fewer migraines but tingling.,7
+Paracetamol,Fever,Reduced fever quickly.,9
+Doxycycline,Acne,Skin improved after few weeks.,8
+Clindamycin,Acne,"Reduced inflammation, mild dryness.",7
+Warfarin,Blood Clot,Effective but needs frequent monitoring.,7
+Apixaban,Blood Clot,"Easier than warfarin, fewer checks.",9
+Levothyroxine,Hypothyroidism,Energy improved and labs normalized.,9
+Salbutamol,Asthma,Immediate breathing relief.,9
+Montelukast,Asthma,Reduced night symptoms.,8
